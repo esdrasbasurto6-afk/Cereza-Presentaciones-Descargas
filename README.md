@@ -2,11 +2,11 @@
 
 Convierte el PDF del cotizador compatible en una presentación PowerPoint con el diseño Cereza.
 
-## Descargar la versión 0.1.11
+## Descargar la versión 0.1.13
 
-- [Instalador para Windows de 64 bits](https://github.com/esdrasbasurto6-afk/Cereza-Presentaciones-Descargas/releases/download/v0.1.11/Cereza-Presentaciones-Setup-0.1.11-Windows-x64.exe): descarga y ejecuta el archivo Setup, sigue el asistente y abre el programa desde el acceso directo. Para actualizar, cierra la aplicación y ejecuta este instalador.
-- [Portable sin instalación](https://github.com/esdrasbasurto6-afk/Cereza-Presentaciones-Descargas/releases/download/v0.1.11/Cereza-Presentaciones-0.1.11-Windows-x64.exe): descarga el archivo y ábrelo directamente.
-- [Ver la release y sus archivos](https://github.com/esdrasbasurto6-afk/Cereza-Presentaciones-Descargas/releases/tag/v0.1.11).
+- [Instalador para Windows de 64 bits](https://github.com/esdrasbasurto6-afk/Cereza-Presentaciones-Descargas/releases/download/v0.1.13/Cereza-Presentaciones-Setup-0.1.13-Windows-x64.exe): descarga y ejecuta el archivo Setup, sigue el asistente y abre el programa desde el acceso directo. Para actualizar, cierra la aplicación y ejecuta este instalador.
+- [Portable sin instalación](https://github.com/esdrasbasurto6-afk/Cereza-Presentaciones-Descargas/releases/download/v0.1.13/Cereza-Presentaciones-0.1.13-Windows-x64.exe): descarga el archivo y ábrelo directamente.
+- [Ver la release y sus archivos](https://github.com/esdrasbasurto6-afk/Cereza-Presentaciones-Descargas/releases/tag/v0.1.13).
 
 Elige cualquiera de los dos ejecutables; ambos ofrecen las mismas funciones. No necesitas Node.js, npm ni descargar el código. Los archivos "Source code" que agrega GitHub no son el instalador.
 
@@ -22,7 +22,8 @@ Cambiar precios o aplicar IVA, descuentos o cargos utiliza el cálculo desde los
 ## Novedades de esta versión
 
 - Mejor compatibilidad con PDF de varias páginas y optimización local de fotografías.
-- Más espacio para descripciones extensas, conservando una diapositiva por producto.
+- Composición automática de texto e imagen: prioriza una diapositiva y utiliza continuaciones solo para contenido excepcionalmente largo.
+- Navegación y edición asociadas al producto correcto aunque cambie su número de diapositivas.
 - Elección entre resumen original del PDF y cálculo por productos cuando hay discrepancias.
 - Interfaz con mayor contraste, letras más legibles y formularios adaptables.
 - Precios en MXN (pesos mexicanos), configuración de IVA y restauración de importes; sin ajustes ocultos del PDF.
